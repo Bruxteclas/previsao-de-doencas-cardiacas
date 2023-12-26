@@ -13,47 +13,18 @@ O conjunto de dados contém informações como idade, sexo, pressão sanguínea,
 - Python 3
 - Bibliotecas Python: pandas, seaborn, matplotlib, numpy, statsmodels
 
-```bash
 pip install pandas seaborn matplotlib numpy statsmodels
 
+Executando o Projeto
+Clone o repositório:
 
-## Executando o Projeto
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-```
-
-2. Execute o Jupyter Notebook ou script Python:
-
-```bash
-jupyter notebook seu_projeto.ipynb
-```
-
-ou
-
-```bash
-python seu_script.py
-```
+ git clone https://github.com/Bruxteclas/previsao-de-doencas-cardiacas.git
 
 ## Visualizações
-
 O projeto inclui visualizações gráficas para entender a distribuição de variáveis e análises bivariadas.
 
 ## Resultados
-
 Os resultados da Regressão Logística e análises estatísticas estão disponíveis no notebook.
 
 ## Contribuições
-
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes.
-
-```
-
-Certifique-se de ajustar as seções conforme a estrutura e o conteúdo específicos do seu projeto. Se precisar de alguma modificação ou esclarecimento, estou aqui para ajudar!
